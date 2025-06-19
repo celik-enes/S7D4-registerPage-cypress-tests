@@ -189,3 +189,5 @@ export default function Register() {
 </Card>
  );
 }
+
+// login ve success sayfaları eklendi

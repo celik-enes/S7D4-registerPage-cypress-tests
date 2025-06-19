@@ -10,3 +10,5 @@ function App() {
 }
 
 export default App;
+
+// Login ve Success sayfaları eklendi

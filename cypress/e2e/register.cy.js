@@ -85,3 +85,6 @@ describe("Register Page", () => {
     });
   });
 });
+
+// Cypress testleri yazıldı
+

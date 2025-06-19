@@ -190,4 +190,5 @@ export default function Register() {
  );
 }
 
-// login ve success sayfaları eklendi
+
+// Form validasyonları eklendi
